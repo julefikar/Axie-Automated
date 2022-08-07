@@ -1,6 +1,13 @@
-# PayoutScript-xyZ
-- This script will make all the payouts for your Axie Infinity academy!
+# Payout Script
+- Automate your payments for Axie Infinity!
 - Fixed and updated by Julefikar
+
+
+# How To Use
+- Download Ubuntu (Latest Version)
+- Fill out slp-payout-config.json for each scholar using provided template.
+- Navigate to folder and open Ubuntu, you can also change directory from Ubuntu.
+- To run program, type: python3 PayoutScript.py slp-payout-config.json
 
 # License
 
